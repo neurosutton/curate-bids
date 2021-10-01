@@ -1,4 +1,5 @@
-# curate-bids
+## Migrated to [GitLab](https://gitlab.com/flywheel-io/flywheel-apps/curate-bids)
+## curate-bids
 Flywheel Gear that curates files within a Flywheel project according to BIDS Spec
 
 
